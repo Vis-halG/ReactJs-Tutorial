@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 // import DynamicValue from "./components/DynamicValue/DynamicValue.jsx"
-import Looping from "./components/Looping/Looping"
+import Looping from "./components/Looping/Looping.jsx";
 
 
 
